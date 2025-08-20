@@ -1,6 +1,6 @@
 # AutoVision  
 
-**AutoVision** : sales, prices, and car models. The project includes data cleaning, exploratory data analysis (EDA), and visualization to extract insights that support decision-making.
+**AutoVision** :is a data analysis project focused on car sales, pricing, and models. The aim is to clean and analyze the dataset, uncover patterns and trends, build forecasting models, and create an interactive dashboard to support decision-making for car dealerships.
 
 ---
 
