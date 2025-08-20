@@ -5,10 +5,10 @@
 ---
 
 ## 📂 Project Structure  
-- **Data Preprocessing**: تنظيف البيانات وتجهيزها للتحليل.  
-- **Exploratory Data Analysis (EDA)**: تحليل استكشافي لاستخراج الأنماط والاتجاهات.  
-- **Forecasting**: التنبؤ بالمبيعات والأسعار بناءً على البيانات المتاحة.  
-- **Visualization Dashboard**: إنشاء لوحة معلومات تفاعلية لعرض النتائج.  
+- **Data Preprocessing**: Data cleaning, handling missing values, and removing outliers.
+- **Exploratory Data Analysis (EDA)**: Discovering trends, correlations, and patterns.
+- **Forecasting**: Building predictive models to forecast car prices and future sales.  
+- **Visualization Dashboard**:Build a Visualization Dashboard to present insights clearly and effectivelly.  
 
 ---
 
