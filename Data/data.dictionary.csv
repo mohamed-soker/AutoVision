@@ -1,0 +1,10 @@
+Column Name,Description,Data Type
+Brand,Car manufacturer/brand name,Categorical
+Price,Selling price of the car (in USD),Numeric
+Body,Type of car body,Categorical
+Mileage,Mileage driven by the car (in thousands of kilometers),Numeric
+EngineV,Engine volume/displacement in liters,Numeric
+Engine Type,Type of engine fuel,Categorical
+Registration,Indicates if the car is registered (yes/no),Categorical
+Year,Year of car production,Numeric
+Model,Model name of the car,Categorical
